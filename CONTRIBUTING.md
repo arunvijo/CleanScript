@@ -1,5 +1,4 @@
 
-```markdown
 # 👥 Contributing to CleanScript
 
 Thank you for your interest in contributing to CleanScript! 🎉  
@@ -14,7 +13,6 @@ We welcome bug reports, feature requests, improvements, and documentation contri
    ```bash
    git clone https://github.com/your-username/CleanScript.git
    cd CleanScript
-````
 
 3. **Install development dependencies**:
 
