@@ -4,8 +4,6 @@
 Thank you for your interest in contributing to CleanScript! 🎉  
 We welcome bug reports, feature requests, improvements, and documentation contributions.
 
----
-
 ## 🧰 Project Setup
 
 1. **Fork this repository** on GitHub.
@@ -13,14 +11,12 @@ We welcome bug reports, feature requests, improvements, and documentation contri
    ```bash
    git clone https://github.com/your-username/CleanScript.git
    cd CleanScript
-
+   ```
 3. **Install development dependencies**:
 
    ```bash
    pip install -e ".[dev,ai]"
    ```
-
----
 
 ## 🚧 Workflow
 
@@ -114,14 +110,10 @@ docs(README): add installation instructions
 * Use the GitHub [Discussions](https://github.com/your-username/CleanScript/discussions).
 * We’re happy to help you contribute!
 
-````
-
----
-
 Once added to your project, commit them:
 
 ```bash
 git add README.md CONTRIBUTING.md
 git commit -m "Add detailed README and CONTRIBUTING guide"
 git push origin main
-````
+```
