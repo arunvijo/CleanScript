@@ -124,7 +124,7 @@ Please follow the coding conventions and commit guidelines outlined in [CONTRIBU
 
 ## 📄 License
 
-CleanScript is released under the [MIT License](LICENSE).
+CleanScript is released under the [MIT License](./LICENSE.txt).
 
 ---
 
@@ -132,5 +132,3 @@ CleanScript is released under the [MIT License](LICENSE).
 
 Have questions or suggestions?
 Join the discussions on GitHub or open an [issue](https://github.com/arunvijo/CleanScript/issues).
-
-````
